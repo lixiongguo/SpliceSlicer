@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/SpriteSlicer2D Demo.unity
+  isLoaded: 1
+  isActive: 1
